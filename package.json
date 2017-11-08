@@ -33,7 +33,7 @@
     "yml-in-place": "^1.0.2"
   },
   "devDependencies": {
-    "nock": "^9.0.0",
+    "nock": "^9.1.0",
     "nyc": "^11.0.3",
     "prettier-standard-formatter": "^0.222222222222222.333333333333333",
     "proxyquire": "^1.7.10",
